@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1711631472 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"functiii.c"
+
+1711981003 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\functiii.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1712011687 c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\headerr.h
+	<stdio.h>
+
+1711631912 c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\functiii.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713119827 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerr.h"
+
+1713121612 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\afisaremeniu.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713121616 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\editarecont.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713120025 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\efectuaretranzactii.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1711984181 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\globals.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1712411349 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\login.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1712412362 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\prelucrare_date_fisier.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713115876 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\stergerecont.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713116258 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\vizualizarecont.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713115706 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\crearecont.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1713121669 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\conversievaluta.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1712011589 source:c:\users\satal\onedrive\desktop\proiect_pr\proiectprog\iban_unic.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728057589 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\bankmanagementsystem\afisaremeniu.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728057590 c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\bankmanagementsystem\headerr.h
+	<stdio.h>
+
+1728057589 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\bankmanagementsystem\conversievaluta.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728057589 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\bankmanagementsystem\crearecont.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728057589 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\bankmanagementsystem\editarecont.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728057589 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\bankmanagementsystem\efectuaretranzactii.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728057590 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\bankmanagementsystem\globals.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728057590 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\bankmanagementsystem\iban_unic.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728057590 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\bankmanagementsystem\login.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728057590 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\bankmanagementsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerr.h"
+
+1728057590 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\bankmanagementsystem\prelucrare_date_fisier.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728057590 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\bankmanagementsystem\stergerecont.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1728057590 source:c:\users\satal\onedrive\desktop\myprojects_cuexecutabile\bankmanagementsystem\vizualizarecont.c
+	"headerr.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
